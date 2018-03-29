@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">newPOS</string>
+    <string name="myFirstButtonConnect">Connect</string>
+    <string name="swingCard">SwingCard</string>
+    <string name="button2">PBOC card reader</string>
+    <string name="button3">Card reader+plus contact less</string>
+    <string name="button4">Beep</string>
+    <string name="button5">SerialNumber</string>
+    <string name="button6">CUPDeviceSn</string>
+    <string name="button7">Version</string>
+    <string name="button8">button8</string>
+
+</resources>
